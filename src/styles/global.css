@@ -1,0 +1,9 @@
+a, a:visited {
+    color: rgb(35, 45, 182);
+    text-decoration: underline;
+}
+
+a:hover, a:focus {
+    color: #000;
+    text-decoration: underline;
+}

@@ -34,7 +34,7 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+            fontFamily: `'Roboto Condensed', sans-serif`,
             marginTop: 0,
           }}
         >
@@ -66,6 +66,8 @@ class Layout extends React.Component {
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <br />
+          <a href="https://github.com/shinytoyrobots/robin-cannon-dotcom">Github Repo</a>
         </footer>
       </div>
     )

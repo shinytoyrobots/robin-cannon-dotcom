@@ -1,3 +1,5 @@
+Built from (but forgot to fork from) https://github.com/gatsbyjs/gatsby-starter-blog. All information below is for that starter kit.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
