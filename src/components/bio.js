@@ -31,11 +31,12 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
+              A Brit in Texas. I manage the dev team for IBM's <a href="https://www.carbondesignsystem.com">Carbon Design System</a>.
+              <br />
+              My blog for work, tech, and industry related musings. Thoughts my own.
+              <br />
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                @shinytoyrobots on Twitter
               </a>
             </p>
           </div>
