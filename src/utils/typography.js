@@ -6,6 +6,14 @@ judahTheme.overrideThemeStyles = () => {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+    "a, a:visited": {
+      color: `rgb(35, 45, 182)`,
+      textDecoration: `underline`,
+    },
+    "a:focus, a:hover, a:active": {
+      color: `#000`,
+      textDecoration: `underline`,
+    }
   }
 }
 
