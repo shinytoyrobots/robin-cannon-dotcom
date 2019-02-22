@@ -75,10 +75,13 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-gauges`,
+      resolve: 'gatsby-plugin-fathom',
       options: {
-        siteId: '5c702444c0b2b445e385310d',
-      },
+        // your Fathom server URL
+        trackingUrl: '142.93.248.204',
+        // unique site id (optional, required for Fathom v1.1.0+)
+        siteId: 'NKSFE'
+      }
     },
   ],
 }
