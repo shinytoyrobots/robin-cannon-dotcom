@@ -68,7 +68,7 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    {
+    /*{
       resolve: 'gatsby-plugin-fathom',
       options: {
         // your Fathom server URL
@@ -76,6 +76,6 @@ module.exports = {
         // unique site id (optional, required for Fathom v1.1.0+)
         siteId: 'NKSFE'
       }
-    },
+    },*/
   ],
 }
