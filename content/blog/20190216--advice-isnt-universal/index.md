@@ -1,6 +1,6 @@
 ---
 title: Universal Advice Isn't Always Universal
-description: Some description goes here
+description: It's logical to give advice to colleagues and team members. But remember that, just because you give advice doesn't mean that it's easy for people to take it. Be aware that the audience for your advice might not be receptive, for a multitude of reasons.
 date: "2019-02-19"
 keywords: [management, teams, diversity, training]
 ---
