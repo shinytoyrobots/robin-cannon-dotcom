@@ -74,5 +74,11 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: `gatsby-plugin-gauges`,
+      options: {
+        siteId: '5c702444c0b2b445e385310d',
+      },
+    },
   ],
 }
