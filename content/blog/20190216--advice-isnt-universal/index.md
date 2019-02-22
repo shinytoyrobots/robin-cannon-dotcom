@@ -2,7 +2,7 @@
 title: Universal Advice Isn't Always Universal
 description: Some description goes here
 date: "2019-02-19"
-keywords: management, teams, diversity, training
+keywords: [management, teams, diversity, training]
 ---
 
 I always encourage my team to reach out for advice. I tell them that it's better to ask for help or guidance than to struggle with a problem alone. Speak to me, to peers on the team, to other colleagues. 
