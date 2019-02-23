@@ -50,7 +50,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `UA-135028979-1`,
+        //trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
     `gatsby-plugin-feed`,
@@ -74,5 +74,14 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-fathom',
+      options: {
+        // your Fathom server URL
+        trackingUrl: '157.230.61.103',
+        // unique site id (optional, required for Fathom v1.1.0+)
+        siteId: 'TNHDW'
+      }
+    }
   ],
 }
