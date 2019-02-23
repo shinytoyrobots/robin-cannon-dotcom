@@ -72,7 +72,7 @@ module.exports = {
       resolve: 'gatsby-plugin-fathom',
       options: {
         // your Fathom server URL
-        trackingUrl: 'https://157.230.61.103',
+        trackingUrl: '157.230.61.103',
         // unique site id (optional, required for Fathom v1.1.0+)
         siteId: 'TNHDW'
       }
