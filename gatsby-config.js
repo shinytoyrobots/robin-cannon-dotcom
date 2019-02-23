@@ -3,7 +3,7 @@ module.exports = {
     title: `Robin Cannon`,
     author: `Robin Cannon`,
     description: `Thoughts on tech, industry, and management`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://robin-cannon.com/`,
     social: {
       twitter: `shinytoyrobots`,
     },
