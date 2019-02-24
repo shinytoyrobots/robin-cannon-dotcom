@@ -76,6 +76,18 @@ module.exports = {
         // unique site id (optional, required for Fathom v1.1.0+)
         siteId: 'TNHDW'
       }
+    },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-135028979-1'
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-gauges',
+      options: {
+        siteID: '5c702444c0b2b445e385310d'
+      }
     }
   ],
 }
