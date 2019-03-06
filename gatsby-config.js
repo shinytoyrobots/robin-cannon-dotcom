@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Robin Cannon`,
+    title: `Robin Cannon's Blog`,
     author: `Robin Cannon`,
     description: `Thoughts on tech, industry, and management`,
     siteUrl: `https://robin-cannon.com/`,
