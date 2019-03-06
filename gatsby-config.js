@@ -69,10 +69,13 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-google-analytics',
+      resolve: 'gatsby-plugin-fathom',
       options: {
-        trackingId: 'UA-135028979-1'
+        // your Fathom server URL
+        trackingUrl: 'analytics.robin-cannon.com',
+        // unique site id (optional, required for Fathom v1.1.0+)
+        siteId: 'KUWDW'
       }
-    },
+    }
   ],
 }
