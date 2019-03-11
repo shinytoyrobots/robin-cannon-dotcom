@@ -45,7 +45,7 @@ I lost count of how many times I've heard things like that. Those were things I 
 
 ### Making me feel dumb for not getting something
 
-This is how I feel reading all the "Gatsby is easy!" tweets like the ones above. Now, eventually I worked my way through my problems. Even to the point of submitting a PR to update their docs. But it took some time, and I'm also lucky that Jason Lengstorf is a good friend. I know he's not going to judge me for asking a dumb question. Not that there are really any dumb questions.
+This is how I feel reading all the "Gatsby is easy!" tweets like the ones above. Now, eventually I worked my way through my problems. Even to the point of submitting a PR to update their docs. But it took some time, and I'm also lucky that [Jason Lengstorf](https://twitter.com/jlengstorf/) is a good friend. I know he's not going to judge me for asking a dumb question. Not that there are really any dumb questions.
 
 But if I was less confident? If I didn't know Jason well?
 
