@@ -1,6 +1,6 @@
 ---
 title: How do I Build a Diverse Candidate Pool?
-description: 
+description: Diverse teams perform better. How can I, as a manager, take the next steps in encouraging a diverse candidate pool? 
 date: "2019-03-28"
 keywords: [diversity, hiring, management]
 ---
