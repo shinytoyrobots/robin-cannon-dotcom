@@ -5,7 +5,7 @@ date: "2019-04-12"
 keywords: ["management", "language", "office culture", "discrimination", "diversity"]
 ---
 
-I was watching some of the tweets about the [JS Heroes]('https://twitter.com/jsheroes') conference over the last couple of days. A friend shared a joke that had made during a session;
+I was watching some of the tweets about the [JS Heroes]('https://twitter.com/jsheroes') conference over the last couple of days. A friend shared a joke that had been made during a session;
 
 > What, you can't type with one hand?
 
