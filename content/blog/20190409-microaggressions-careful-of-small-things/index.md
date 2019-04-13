@@ -5,13 +5,13 @@ date: "2019-04-12"
 keywords: ["management", "language", "office culture", "discrimination", "diversity"]
 ---
 
-I was watching some of the tweets about JS Heroes yesterday. A friend shared a joke that [@tlakomy]('https://twitter.com/tlakomy') had made during a session;
+I was watching some of the tweets about the [JS Heroes]('https://twitter.com/jsheroes') conference over the last couple of days. A friend shared a joke that had made during a session;
 
 > What, you can't type with one hand?
 
 It's also [Limb Different Awareness Month]('https://www.amputee-coalition.org/events-programs/limb-loss-awareness-month/'_), and my wife, [@kimosabeHKS]('https://twitter.com/kimosabeHKS'), is limb different. She can only type with one hand. A "ho ho, imagine if you could only type with one hand, how sucky" comment wouldn't be so fun for her.
 
-I didn't have the full context of @tlakomy's joke during the session. I doubt there was any malice in it. My friend deleted their tweet after I messaged them and raised by concern. But it's a demonstration of how easy it can be to exclude an audience through a simple comment.
+I didn't have the full context of the joke during the session. I doubt there was any malice in it. My friend deleted their tweet after I messaged them and raised by concern. But it's a demonstration of how easy it can be to exclude an audience through a simple comment.
 
 ## Microaggressions are real
 
