@@ -17,7 +17,7 @@ I didn't have the full context of the joke during the session. I doubt there was
 
 > Thanks, guys!
 
-Last week I was invited to do some Q&A on the Carbon Design System to a groups of designers. It was a good call, I thought. I hope it was helpful. When I was wrapping up my part of the call and signing off, I said "thanks, guys" before I hung up.
+Last week I was invited to do some Q&A on the [Carbon Design System]('https://www.carbondesignsystem.com/') to a groups of designers. It was a good call, I thought. I hope it was helpful. When I was wrapping up my part of the call and signing off, I said "thanks, guys" before I hung up.
 
 And the moment I hung up I felt dumb. The participants of that call weren't all men. Stopping using the term "guys" in mixed gender groups is something I've made a conscious effort to avoid. My guess is that most of the people on the call thought nothing of it. But the onus isn't on other people to be bothered by language I use. The onus on me is to make sure my language is inclusive.
 
@@ -29,7 +29,7 @@ I'm not sure I like the term "microaggression". It assigns too much motive ("agg
 
 > Hey, everyone, it's time for our daily stand up
 
-This is one that a former colleague on IBM Cloud mentioned to me one day. Development teams practising any implementation of Agile, however flawed, almost always have some kind of regular check in session. And it's almost always called a stand up.
+This is one that a former colleague on [IBM Cloud]('https://www.ibm.com/cloud/') mentioned to me one day. Development teams practising any implementation of Agile, however flawed, almost always have some kind of regular check in session. And it's almost always called a stand up.
 
 Would you feel great if you were a wheelchair user being asked to come and "stand up" on a daily basis? I don't know. But I do know there's no real reason for that regular check in to be called a stand up. I assume it's just because the first team that codified the term stood up for it, and my guess is that that team didn't include a wheelchair user.
 
